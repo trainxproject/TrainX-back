@@ -14,7 +14,7 @@ services:
     image: postgres:17
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: admin 
+      POSTGRES_PASSWORD: admin2024
       POSTGRES_DB: trainx_db
     ports:
       - "5432:5432" 
